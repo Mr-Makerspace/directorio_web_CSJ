@@ -5,11 +5,11 @@ const contactForm = document.getElementById("contactForm");
 const alerta = document.getElementById("alerta");
 
 const correos = {
-  "Académico": "academico@cumbres.edu.mx",
-  "Disciplina/Formación": "disciplina@cumbres.edu.mx",
-  "Academias Deportivas": "deportes@cumbres.edu.mx",
-  "Tutoría": "tutoria@cumbres.edu.mx",
-  "Administración/Caja": "caja@cumbres.edu.mx",
+  "Académico": "j.abarca@cumbressanjavier.edu.mx",
+  "Disciplina/Formación": "j.misael.abarca@gmail.com",
+  "Academias Deportivas": "j.abarca@edu.cumbressanjavier.com",
+  "Tutoría": "toxictwistedtown@gmail.com",
+  "Administración/Caja": "joset.abarca23b@udgvirtual.udg.mx",
   "Psicopedagogía": "psicopedagogia@cumbres.edu.mx"
 };
 
