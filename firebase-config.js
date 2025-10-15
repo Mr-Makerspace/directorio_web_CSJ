@@ -17,3 +17,5 @@
 
 firebase.initializeApp(firebaseConfig);
 const db = firebase.firestore();
+
+console.log("Firestore inicializado:", db);
